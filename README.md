@@ -7,13 +7,13 @@ This repository contains a Python project for stock price prediction using the P
 ### Methodology 
 1.Preprocessing and Cleaning
 
-2.Feature Extraction
+2.Feature visualization on Opening and Closing prices
 
-3.Twitter Sentiment Analysis and Score
+3.Splitting of data
 
-4.Data Normalization
+4.Data observation on each epoch
 
-5.Analysis of various supervised learning methods
+5.Analysis on Actual and predicted closing prices
 
 ### Libraries and Frameworks used
 1.PyTorch
