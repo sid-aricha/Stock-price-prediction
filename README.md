@@ -6,7 +6,11 @@ This repository contains a Python project for stock price prediction using the P
 
 ### Libraries and Frameworks used
 1.PyTorch
+
 2.NumPy
+
 3.Pandas
+
 4.Matplotlib
+
 5.Scikit-Learn
